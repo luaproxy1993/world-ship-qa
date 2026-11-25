@@ -1,0 +1,7 @@
+dist/
+.staging-*
+.DS_Store
+*.pyc
+__pycache__/
+.venv/
+node_modules/
